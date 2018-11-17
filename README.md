@@ -1,2 +1,2 @@
 # masteruah
-Master UAH
+Master UAH.
